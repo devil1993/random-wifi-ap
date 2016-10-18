@@ -12,8 +12,18 @@ disarm_DB_name = "DisarmHotspotDB"
 disarm_DB_password = "DisarmDB"
 
 # Wifi Scanning command section
-#wifi_device_name = "wlp3s0"
-wifi_device_name = "wlp3s0"
+# Find wlan0 and eth0 Interface
+wifiInterfaceName = "ls /sys/class/net | grep w"
+ethInterfaceName = "ls /sys/class/net | grep e"
+
+wifi_device_name = check_output(wifiInterfaceName, shell=True)[0:-1]
+print wifi_device_name
+
+eth_device_name = check_output(ethInterfaceName, shell=True)[0:-1]
+print eth_device_name
+
+#print 'wifi:' + str(wifi_device_name) + 'eth:' + str(eth_device_name)
+
 command = "iwlist"
 operation = "scan"
 filters = "| grep -e ESSID -e Quality"
@@ -31,10 +41,10 @@ connect_pwd = " password "
 # Create AP constants and commands
 time_to_wait = 10
 sudo_password = "devil.666"
-binary_location = "/home/sam/project/create_ap/create_ap/create_ap"
+binary_location = "create_ap/create_ap"
 create_ap_option = "-g"
 ip_range_selector = "192.168.43.1"	
-source_device_name = "enp2s0"
+source_device_name = eth_device_name
 
 # Functions
 def isConnected(connection_name_to_check):
