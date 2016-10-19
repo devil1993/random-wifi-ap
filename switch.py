@@ -3,12 +3,13 @@ import datetime
 import time
 from subprocess import check_output
 import thread
+import random
 
 # Time to search for available wifi connections in miliseconds.
 time_to_search = 5
 
 # App Constants
-disarm_DB_name = "DisarmHotspotDB"
+disarm_DB_name = "DisarmHotspotDB_testSG"
 disarm_DB_password = "DisarmDB"
 
 # Wifi Scanning command section
@@ -38,13 +39,17 @@ connect_to = "nmcli d wifi connect "
 disconnect_command = "nmcli d disconnect "
 connect_pwd = " password "
 
+# AP kill command
+kill_ap = "pkill -f create_ap"
+
 # Create AP constants and commands
 time_to_wait = 10
-sudo_password = "devil.666"
+sudo_password = "roguenation"
 binary_location = "create_ap/create_ap"
 create_ap_option = "-g"
 ip_range_selector = "192.168.43.1"	
 source_device_name = eth_device_name
+switching_probability = 0.5
 
 # Functions
 def isConnected(connection_name_to_check):
@@ -100,6 +105,11 @@ def searchAndConnect():
 		if(time_remaining <= time_taken):
 			print "Need to enter randomize switching"
 			break;
+def randomSwiching():
+	frac = random.random()
+	if fraction > switching_probability:
+		return True
+	return False
 
 def createAp():
 	os.system(disconnect_command+wifi_device_name)
@@ -111,14 +121,20 @@ def createAp():
 	# Wait for a constant amount(configured) time
 	print "Waiting...."
 	time.sleep(time_to_wait)
+
 	# Check if any device is connected with it
 	# Loop until - NO DEVICE IS CONNECTED
 
+	# Testing: terminating the ap and killing the creator thread
+	os.system(kill_ap)
+
 def apCreaterThreadFunction(command, thread_id):
-	os.popen("sudo -S %s"%(command), 'w').write(sudo_password)
+	#os.popen("sudo -S %s"%(command), 'w').write(sudo_password)
+	os.system(command)
+	print "HERE !!!!"
 
 # Initially in WiFi mode
-searchAndConnect()
+#searchAndConnect()
 createAp()
 
 # Now loop and randomize switch
@@ -126,6 +142,9 @@ while(True):
 	break
 	# Generate a random fraction
 	# Check if its more than switching probability
-	# createAp()
-	# Else
-	# searchAndConnect
+	if(randomSwiching()):
+		createAp()
+	else:
+		searchAndConnect()
+
+print "Exiting..."
