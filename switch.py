@@ -5,13 +5,6 @@ from subprocess import check_output
 import thread
 import random
 
-# Time to search for available wifi connections in miliseconds.
-time_to_search = 5
-
-# App Constants
-disarm_DB_name = "DisarmHotspotDB_testSG"
-disarm_DB_password = "DisarmDB"
-
 # Wifi Scanning command section
 # Find wlan0 and eth0 Interface
 wifiInterfaceName = "ls /sys/class/net | grep w"
@@ -22,6 +15,22 @@ print wifi_device_name
 
 eth_device_name = check_output(ethInterfaceName, shell=True)[0:-1]
 print eth_device_name
+
+# Create AP constants and commands
+time_to_wait = 15
+sudo_password = "roguenation"
+binary_location = "create_ap/create_ap"
+create_ap_option = "-g"
+ip_range_selector = "192.168.43.1"	
+source_device_name = eth_device_name
+switching_probability = 0.5
+
+# Time to search for available wifi connections in miliseconds.
+time_to_search = 5
+
+# App Constants
+disarm_DB_name = "DisarmHotspotDB_testSG"
+disarm_DB_password = "DisarmDB"
 
 #print 'wifi:' + str(wifi_device_name) + 'eth:' + str(eth_device_name)
 
@@ -39,17 +48,11 @@ connect_to = "nmcli d wifi connect "
 disconnect_command = "nmcli d disconnect "
 connect_pwd = " password "
 
+# Get the number of connected clients
+client_count_script = binary_location + " --list-clients wlan0 | grep -e 192.168.43 | wc -l"
+
 # AP kill command
 kill_ap = "pkill -f create_ap"
-
-# Create AP constants and commands
-time_to_wait = 10
-sudo_password = "roguenation"
-binary_location = "create_ap/create_ap"
-create_ap_option = "-g"
-ip_range_selector = "192.168.43.1"	
-source_device_name = eth_device_name
-switching_probability = 0.5
 
 # Functions
 def isConnected(connection_name_to_check):
@@ -118,13 +121,19 @@ def createAp():
 	# Create AP using the create_ap api
 	#p = os.system('echo %s|sudo -S %s' % (sudo_password, create_ap_command))
 	thread.start_new_thread( apCreaterThreadFunction, (create_ap_command , 1) )
-	# Wait for a constant amount(configured) time
-	print "Waiting...."
-	time.sleep(time_to_wait)
 
-	# Check if any device is connected with it
-	# Loop until - NO DEVICE IS CONNECTED
-
+	while(True):
+		# Wait for a constant amount(configured) time
+		print "Waiting...."
+		time.sleep(time_to_wait)
+		# Check if any device is connected with it
+		clients = int(check_output(client_count_script, shell = True))
+		if(clients == 0):
+			print "No client connected.."
+			break
+		else:
+			print str(clients) + " clients connected."
+	
 	# Testing: terminating the ap and killing the creator thread
 	os.system(kill_ap)
 
