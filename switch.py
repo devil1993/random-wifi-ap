@@ -131,7 +131,6 @@ def createAp():
 def apCreaterThreadFunction(command, thread_id):
 	#os.popen("sudo -S %s"%(command), 'w').write(sudo_password)
 	os.system(command)
-	print "HERE !!!!"
 
 # Initially in WiFi mode
 #searchAndConnect()
