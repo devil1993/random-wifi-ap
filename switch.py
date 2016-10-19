@@ -107,7 +107,7 @@ def searchAndConnect():
 			break;
 def randomSwiching():
 	frac = random.random()
-	if fraction > switching_probability:
+	if frac > switching_probability:
 		return True
 	return False
 
