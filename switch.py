@@ -4,6 +4,8 @@ import time
 from subprocess import check_output
 import thread
 import random
+import csv
+import logging
 
 # Wifi Scanning command section
 # Find wlan0 and eth0 Interface
@@ -15,6 +17,20 @@ print 'Wifi Interface Name:' + wifi_device_name
 
 eth_device_name = check_output(ethInterfaceName, shell=True)[0:-1]
 print 'Ethernet Interface Name:' + eth_device_name
+
+# Logger File
+logFileName = "PCDisarmConnectLog_" + datetime.datetime.now().strftime('%Y%m%d%H%M%S') + ".csv"
+# create logger
+lgr = logging.getLogger("PCDisarmConnect")
+lgr.setLevel(logging.DEBUG) # log all escalated at and above DEBUG
+fh = logging.FileHandler(logFileName)
+fh.setLevel(logging.DEBUG) # ensure all messages are logged to file
+# create a formatter and set the formatter for the handler.
+frmt = logging.Formatter('%(asctime)s,%(name)s,%(levelname)s,%(message)s')
+fh.setFormatter(frmt)
+# add the Handler to the logger
+lgr.addHandler(fh)
+
 
 # Create AP constants and commands
 time_to_wait = 15
@@ -57,6 +73,7 @@ client_count_script = binary_location + " --list-clients wlan0 | grep -e 192.168
 kill_ap = "pkill -f create_ap"
 
 # Functions
+
 def isConnected(connection_name_to_check):
 	final_check_command = check_command + " " + wifi_device_name + check_filter
 	check_result = check_output(final_check_command, shell=True)
@@ -78,7 +95,7 @@ def parseWifiList(activeWifiList):
 		#print str(activeWifis[i]) + " " + str(activeWifis[i+1])
 		wifiDict[activeWifis[i+1]] = activeWifis[i]
 		 
-
+	lgr.info("Wifi Scan List Result:," + str(wifiDict))
 	print wifiDict
 
 def checkIfDBExists(filename):
@@ -105,6 +122,7 @@ def connectToDB():
 	#Popen(final_command, shell=True)
 
 def searchAndConnect():
+	lgr.info("Searching DisarmDB")
 	#datetime.datetime.now().time()
 	time_remaining = time_to_search
 	current_time = time.time()
@@ -163,8 +181,9 @@ def apCreaterThreadFunction(command, thread_id):
 	os.system(command)
 
 # Initially in WiFi mode
-#searchAndConnect()
-createAp()
+
+searchAndConnect()
+#createAp()
 
 # Now loop and randomize switch
 while(True):
