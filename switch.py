@@ -4,17 +4,33 @@ import time
 from subprocess import check_output
 import thread
 import random
+import csv
+import logging
 
 # Wifi Scanning command section
 # Find wlan0 and eth0 Interface
-wifiInterfaceName = "ls /sys/class/net | grep w"
-ethInterfaceName = "ls /sys/class/net | grep e"
+wifiInterfaceName = "ls /sys/class/net | grep '^w'"
+ethInterfaceName = "ls /sys/class/net | grep '^e'"
 
 wifi_device_name = check_output(wifiInterfaceName, shell=True)[0:-1]
-print wifi_device_name
+print 'Wifi Interface Name:' + wifi_device_name
 
 eth_device_name = check_output(ethInterfaceName, shell=True)[0:-1]
-print eth_device_name
+print 'Ethernet Interface Name:' + eth_device_name
+
+# Logger File
+logFileName = "PCDisarmConnectLog_" + datetime.datetime.now().strftime('%Y%m%d%H%M%S') + ".csv"
+# create logger
+lgr = logging.getLogger("PCDisarmConnect")
+lgr.setLevel(logging.DEBUG) # log all escalated at and above DEBUG
+fh = logging.FileHandler(logFileName)
+fh.setLevel(logging.DEBUG) # ensure all messages are logged to file
+# create a formatter and set the formatter for the handler.
+frmt = logging.Formatter('%(asctime)s,%(name)s,%(levelname)s,%(message)s')
+fh.setFormatter(frmt)
+# add the Handler to the logger
+lgr.addHandler(fh)
+
 
 # Create AP constants and commands
 time_to_wait = 15
@@ -24,12 +40,14 @@ create_ap_option = "-g"
 ip_range_selector = "192.168.43.1"	
 source_device_name = eth_device_name
 switching_probability = 0.5
+activeWifis = []
+wifiDict = {}
 
 # Time to search for available wifi connections in miliseconds.
 time_to_search = 5
 
 # App Constants
-disarm_DB_name = "DisarmHotspotDB_testSG"
+disarm_DB_name = "DisarmHotspotDB"
 disarm_DB_password = "DisarmDB"
 
 #print 'wifi:' + str(wifi_device_name) + 'eth:' + str(eth_device_name)
@@ -55,6 +73,7 @@ client_count_script = binary_location + " --list-clients wlan0 | grep -e 192.168
 kill_ap = "pkill -f create_ap"
 
 # Functions
+
 def isConnected(connection_name_to_check):
 	final_check_command = check_command + " " + wifi_device_name + check_filter
 	check_result = check_output(final_check_command, shell=True)
@@ -63,6 +82,22 @@ def isConnected(connection_name_to_check):
 	connected_to = connected_to[:expected_length]
 	return connected_to == connection_name_to_check
 	
+def parseWifiList(activeWifiList):
+	activeWifis = activeWifiList.replace(" ","").split("\n")
+
+	# Iterate list in increment of two
+	for i in xrange(0,len(activeWifis) - 1,2):
+		activeWifis[i] = activeWifis[i][25:-3]
+		for ch in ['ESSID',':','\"']:
+			if ch in activeWifis[i+1]:
+				activeWifis[i+1] = activeWifis[i+1].replace(ch,"")
+
+		#print str(activeWifis[i]) + " " + str(activeWifis[i+1])
+		wifiDict[activeWifis[i+1]] = activeWifis[i]
+		 
+	lgr.info("Wifi Scan List Result:," + str(wifiDict))
+	print wifiDict
+
 def checkIfDBExists(filename):
 	file = open(filename,"r")
 	lines = file.read().split('\n')
@@ -87,6 +122,7 @@ def connectToDB():
 	#Popen(final_command, shell=True)
 
 def searchAndConnect():
+	lgr.info("Searching DisarmDB")
 	#datetime.datetime.now().time()
 	time_remaining = time_to_search
 	current_time = time.time()
@@ -96,6 +132,9 @@ def searchAndConnect():
 			os.system('rm ' + filename)
 		except Exception, e:
 			print e
+		activeWifiList = str(check_output("iwlist wlan0 scan | grep -e ESSID -e Quality", shell=True))
+		parseWifiList(activeWifiList)
+
 		os.system(command + " "	 + wifi_device_name + " " + operation + " " + filters + " " + to_file)
 		if(checkIfDBExists(filename) == 1) :
 			connectToDB();
@@ -142,8 +181,9 @@ def apCreaterThreadFunction(command, thread_id):
 	os.system(command)
 
 # Initially in WiFi mode
-#searchAndConnect()
-createAp()
+
+searchAndConnect()
+#createAp()
 
 # Now loop and randomize switch
 while(True):
