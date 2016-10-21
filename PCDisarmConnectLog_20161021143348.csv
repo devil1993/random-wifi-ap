@@ -1,0 +1,7 @@
+2016-10-21 14:33:48,397,PCDisarmConnect,INFO,Searching DisarmDB
+2016-10-21 14:33:49,892,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -77, 'SD-TD': -81, 'dlink': -88, 'LEDE': -54, 'DCA': -84}
+2016-10-21 14:33:51,477,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -81, 'SD-TD': -79, 'dlink': -88, 'LEDE': -51, 'DCA': -83}
+2016-10-21 14:33:53,052,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -84, 'SD-TD': -83, 'dlink': -88, 'LEDE': -52, 'DCA': -84}
+2016-10-21 14:33:54,644,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'SD-TD': -82, 'dlink': -88, 'LEDE': -52, 'DCA': -73}
+2016-10-21 14:34:09,717,PCDisarmConnect,INFO,Searching DisarmDevice
+2016-10-21 14:34:09,744,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1

@@ -1,0 +1,1140 @@
+2016-10-21 14:36:54,376,PCDisarmConnect,INFO,Searching DisarmDB
+2016-10-21 14:36:55,870,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, '1stFloorLinksys': -70, 'DCA': -82, 'dlink': -91, 'LEDE': -51, 'MANET': -72, 'SD-TD': -80}
+2016-10-21 14:36:57,442,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, '1stFloorLinksys': -79, 'DCA': -82, 'dlink': -93, 'LEDE': -55, 'MANET': -72, 'SD-TD': -89}
+2016-10-21 14:36:59,024,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, '1stFloorLinksys': -79, 'DCA': -82, 'dlink': -93, 'LEDE': -53, 'MANET': -73, 'SD-TD': -82}
+2016-10-21 14:37:00,601,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, '1stFloorLinksys': -83, 'DCA': -77, 'dlink': -94, 'LEDE': -55, 'MANET': -71, 'SD-TD': -82}
+2016-10-21 14:37:00,601,PCDisarmConnect,INFO,Searching DisarmDevice
+2016-10-21 14:37:02,179,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, '1stFloorLinksys': -82, 'DCA': -77, 'dlink': -79, 'LEDE': -44, 'MANET': -71, 'SD-TD': -69}
+2016-10-21 14:37:03,764,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, '1stFloorLinksys': -80, 'DCA': -76, 'dlink': -79, 'LEDE': -48, 'MANET': -71, 'SD-TD': -79}
+2016-10-21 14:37:05,359,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, '1stFloorLinksys': -80, 'DCA': -76, 'dlink': -79, 'LEDE': -48, 'MANET': -71, 'SD-TD': -84}
+2016-10-21 14:37:06,944,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -79, 'LEDE': -51, 'MANET': -72, 'SD-TD': -79}
+2016-10-21 14:37:06,944,PCDisarmConnect,INFO,Searching DisarmDevice
+2016-10-21 14:37:08,532,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, '1stFloorLinksys': -86, 'DCA': -83, 'dlink': -79, 'LEDE': -56, 'MANET': -73, 'SD-TD': -81}
+2016-10-21 14:37:10,124,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -87, 'DCA': -77, 'dlink': -79, 'LEDE': -80, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:11,704,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -68, 'DCA': -79, 'dlink': -79, 'LEDE': -72, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:13,290,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,370,PCDisarmConnect,INFO,Searching DisarmDevice
+2016-10-21 14:37:28,377,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,377,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,380,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,380,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,386,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,386,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,391,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,392,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,396,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,396,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,452,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,452,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,466,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,466,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,470,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,470,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,473,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,474,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,477,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,477,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,481,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,482,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,534,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,534,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,542,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,542,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,551,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,552,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,555,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,555,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,559,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,559,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,562,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,562,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,566,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,566,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,571,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,572,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,577,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,577,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,583,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,583,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,588,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,588,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,594,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,594,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,600,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,600,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,606,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,606,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,612,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,612,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,617,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,617,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,622,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,622,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,627,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,628,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,634,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,634,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,639,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,639,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,643,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,643,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,647,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,647,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,652,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,652,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,658,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,658,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,665,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,665,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,672,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,673,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,678,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,678,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,684,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,684,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,689,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,689,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,695,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,695,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,701,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,701,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,706,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,706,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,711,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,711,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,716,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,716,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,719,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,720,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,723,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,723,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,726,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,726,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,730,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,730,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,733,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,733,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,736,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,736,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,739,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,739,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,742,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,742,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,745,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,745,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,748,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,748,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,751,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,751,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,755,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,755,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,761,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,761,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,767,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,767,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,772,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,772,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,777,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,777,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,782,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,782,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,788,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,788,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,794,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,794,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,800,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,800,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,805,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,806,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,811,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,811,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,817,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,817,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,822,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,823,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,827,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,828,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,832,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,832,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,836,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,836,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,840,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,840,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,844,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,844,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,849,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,849,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,855,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,855,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,861,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,861,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,866,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,866,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,870,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,870,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,875,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,875,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,880,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,880,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,886,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,886,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,891,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,892,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,897,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,897,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,902,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,902,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,908,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,908,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,914,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,914,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,920,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,920,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,927,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,927,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,932,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,932,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,937,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,937,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,943,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,943,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,949,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,949,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,955,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,955,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,961,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,961,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,967,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,967,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,974,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,974,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,980,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,981,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,985,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,986,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,991,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,991,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:28,996,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:28,996,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,002,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,002,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,008,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,008,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,013,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,014,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,019,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,019,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,024,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,024,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,030,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,030,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,035,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,035,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,040,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,040,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,044,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,044,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,049,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,049,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,055,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,055,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,061,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,061,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,067,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,068,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,073,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,073,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,078,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,078,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,083,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,083,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,089,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,089,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,096,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,096,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,102,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,103,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,108,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,108,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,113,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,113,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,118,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,119,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,125,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,125,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,131,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,131,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,136,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,136,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,142,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,142,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,147,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,147,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,153,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,153,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,161,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,162,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,168,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,168,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,175,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,175,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,181,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,181,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,187,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,188,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,195,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,195,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,201,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,202,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,208,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,208,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,215,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,215,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,221,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,221,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,226,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,227,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,232,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,232,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,238,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,238,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,244,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,244,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,250,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,250,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,256,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,256,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,262,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,262,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,268,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,268,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,274,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,274,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,281,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,281,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,286,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,287,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,293,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,293,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,299,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,299,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,305,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,305,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,311,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,311,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,317,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,317,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,323,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,323,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,328,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,329,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,335,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,335,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,342,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,342,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,347,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,348,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,353,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,353,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,359,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,359,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,364,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,364,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,371,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,371,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,377,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,378,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,383,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,383,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,388,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,388,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,394,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,394,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,401,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,401,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,407,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,407,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,413,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,413,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,419,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,419,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,425,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,425,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,430,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,430,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,436,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,436,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,441,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,441,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,446,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,446,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,451,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,451,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,457,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,457,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,462,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,463,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,468,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,468,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,473,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,473,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,478,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,478,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,483,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,483,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,489,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,489,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:29,495,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:29,495,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -80, 'DCA': -74, 'dlink': -91, 'LEDE': -61, 'MANET': -62, 'SD-TD': -82}
+2016-10-21 14:37:31,337,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, '1stFloorLinksys': -82, 'DCA': -78, 'dlink': -91, 'LEDE': -46, 'MANET': -62, 'SD-TD': -76}
+2016-10-21 14:37:32,929,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, '1stFloorLinksys': -74, 'DCA': -79, 'dlink': -91, 'LEDE': -52, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:34,508,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,573,PCDisarmConnect,INFO,Searching DisarmDevice
+2016-10-21 14:37:49,605,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,606,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,609,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,609,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,613,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,613,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,616,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,616,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,680,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,680,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,690,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,691,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,696,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,696,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,699,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,699,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,702,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,702,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,706,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,706,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,762,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,762,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,776,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,776,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,781,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,782,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,785,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,785,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,788,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,788,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,791,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,791,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,794,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,794,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,797,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,797,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,800,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,800,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,806,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,806,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,811,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,812,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,817,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,817,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,822,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,822,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,827,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,827,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,832,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,833,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,838,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,838,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,843,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,844,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,850,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,850,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,855,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,855,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,861,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,861,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,866,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,867,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,872,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,872,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,877,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,877,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,882,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,882,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,887,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,887,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,893,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,893,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,900,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,900,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,906,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,906,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,911,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,911,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,917,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,917,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,923,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,923,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,929,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,929,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,935,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,935,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,941,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,941,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,947,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,947,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,954,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,955,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,961,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,961,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,967,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,967,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,972,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,972,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,978,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,978,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,984,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,984,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,990,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,990,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:49,996,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:49,996,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,001,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,001,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,006,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,006,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,011,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,011,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,017,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,018,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,023,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,023,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,027,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,028,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,032,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,032,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,036,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,036,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,041,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,041,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,047,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,047,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,054,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,054,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,060,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,060,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,066,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,066,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,072,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,073,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,080,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,080,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,086,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,086,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,092,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,092,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,098,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,098,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,103,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,103,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,108,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,109,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,114,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,114,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,120,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,120,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,126,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,127,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,133,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,134,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,140,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,140,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,146,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,146,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,152,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,152,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,157,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,158,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,165,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,165,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,171,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,171,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,177,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,177,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,183,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,183,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,188,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,188,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,194,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,195,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,200,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,200,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,205,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,205,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,210,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,210,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,214,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,214,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,220,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,220,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,226,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,226,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,231,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,232,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,237,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,237,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,241,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,241,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,246,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,246,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,251,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,252,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,257,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,258,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,264,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,264,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,269,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,270,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,275,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,275,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,280,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,280,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,286,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,286,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,292,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,292,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,298,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,298,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,304,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,304,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,309,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,310,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,315,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,315,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,322,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,323,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,329,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,329,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,334,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,334,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,339,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,339,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,345,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,345,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,351,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,351,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,358,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,358,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,364,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,364,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,370,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,370,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,375,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,376,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,382,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,382,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,388,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,388,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,393,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,393,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,398,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,399,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,404,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,404,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,409,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,409,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,415,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,415,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,421,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,421,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,426,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,427,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,432,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,432,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,438,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,438,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,444,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,444,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,449,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,449,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,454,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,455,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,461,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,461,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,467,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,467,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,474,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,474,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,478,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,479,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,482,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,483,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,486,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,486,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,490,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,490,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,494,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,494,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,498,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,498,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,502,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,502,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,509,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,509,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,515,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,515,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,520,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,521,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,526,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,527,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,532,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,533,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,539,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,540,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,545,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,546,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,552,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,552,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,557,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,558,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,564,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,564,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,570,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,571,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,576,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,576,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,583,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,583,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,590,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,590,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,596,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,596,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,602,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,602,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,608,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,608,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,614,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,614,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,620,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,620,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,626,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,626,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,632,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,633,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,637,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,637,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,642,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,642,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,647,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,647,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,653,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,653,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,660,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,660,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,666,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,666,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,671,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,671,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,676,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,676,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,681,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,681,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,689,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,689,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,695,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,695,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,701,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,701,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,706,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,707,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,712,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,712,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:50,718,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:37:50,718,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -63, 'MANET': -62, 'SD-TD': -78}
+2016-10-21 14:37:52,564,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -77, 'DCA': -79, 'dlink': -93, 'LEDE': -52, 'MANET': -77, 'SD-TD': -79}
+2016-10-21 14:37:54,147,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -83, 'DCA': -76, 'dlink': -78, 'LEDE': -51, 'MANET': -77, 'SD-TD': -78}
+2016-10-21 14:37:55,728,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -92, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -76, 'DCA': -76, 'dlink': -78, 'LEDE': -54, 'MANET': -77, 'SD-TD': -84}
+2016-10-21 14:37:55,728,PCDisarmConnect,INFO,Searching DisarmDevice
+2016-10-21 14:37:57,313,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -71, 'DCA': -79, 'dlink': -78, 'LEDE': -50, 'MANET': -77, 'SD-TD': -75}
+2016-10-21 14:37:58,887,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -79, 'dlink': -91, 'LEDE': -62, 'MANET': -78, 'SD-TD': -75}
+2016-10-21 14:38:00,471,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -83, 'DCA': -78, 'dlink': -91, 'LEDE': -51, 'MANET': -78, 'SD-TD': -79}
+2016-10-21 14:38:02,064,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -89, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -75, 'dlink': -92, 'LEDE': -50, 'MANET': -78, 'SD-TD': -78}
+2016-10-21 14:38:02,065,PCDisarmConnect,INFO,Searching DisarmDevice
+2016-10-21 14:38:03,640,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -89, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -76, 'DCA': -83, 'dlink': -92, 'LEDE': -52, 'MANET': -76, 'SD-TD': -72}
+2016-10-21 14:38:05,227,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -89, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -84, 'DCA': -83, 'dlink': -91, 'LEDE': -54, 'MANET': -73, 'SD-TD': -80}
+2016-10-21 14:38:06,810,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -68, 'DCA': -82, 'dlink': -91, 'LEDE': -52, 'MANET': -63, 'SD-TD': -80}
+2016-10-21 14:38:08,387,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -74, 'DCA': -72, 'dlink': -91, 'LEDE': -50, 'MANET': -63, 'SD-TD': -71}
+2016-10-21 14:38:08,387,PCDisarmConnect,INFO,Searching DisarmDevice
+2016-10-21 14:38:09,971,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -75, 'DCA': -72, 'dlink': -89, 'LEDE': -50, 'MANET': -73, 'SD-TD': -80}
+2016-10-21 14:38:11,551,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -81, 'DCA': -77, 'dlink': -91, 'LEDE': -50, 'MANET': -69, 'SD-TD': -79}
+2016-10-21 14:38:13,141,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -90, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -79, 'DCA': -79, 'dlink': -91, 'LEDE': -49, 'MANET': -73, 'SD-TD': -76}
+2016-10-21 14:38:16,260,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -84, 'DCA': -81, 'dlink': -90, 'LEDE': -58, 'MANET': -73, 'SD-TD': -77}
+2016-10-21 14:38:16,261,PCDisarmConnect,INFO,Searching DisarmDevice
+2016-10-21 14:38:17,888,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -72, 'DCA': -79, 'dlink': -92, 'LEDE': -51, 'MANET': -76, 'SD-TD': -71}
+2016-10-21 14:38:19,464,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -89, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -80, 'DCA': -79, 'dlink': -91, 'LEDE': -51, 'MANET': -74, 'SD-TD': -71}
+2016-10-21 14:38:21,043,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -89, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -80, 'DCA': -85, 'dlink': -81, 'LEDE': -55, 'MANET': -73, 'SD-TD': -80}
+2016-10-21 14:38:22,626,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,718,PCDisarmConnect,INFO,Searching DisarmDevice
+2016-10-21 14:38:37,763,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,763,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,767,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,767,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,771,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,771,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,775,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,775,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,838,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,838,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,843,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,844,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,848,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,848,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,853,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,853,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,857,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,857,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,861,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,861,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,906,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,906,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,913,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,913,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,927,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,927,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,930,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,930,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,934,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,934,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,937,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,938,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,943,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,943,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,948,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,948,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,953,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,953,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,958,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,958,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,963,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,964,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,970,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,970,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,976,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,976,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,982,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,983,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,988,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,989,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:37,994,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:37,995,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,001,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,001,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,007,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,007,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,012,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,013,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,019,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,019,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,025,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,025,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,031,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,031,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,036,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,037,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,042,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,042,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,047,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,048,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,053,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,054,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,060,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,060,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,065,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,066,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,071,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,071,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,076,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,076,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,081,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,081,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,087,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,087,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,092,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,092,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,097,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,097,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,101,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,101,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,106,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,106,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,113,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,113,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,119,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,120,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,126,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,126,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,130,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,131,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,135,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,135,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,139,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,139,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,145,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,145,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,151,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,151,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,157,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,157,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,162,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,162,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,168,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,169,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,174,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,175,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,180,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,181,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,186,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,186,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,193,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,193,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,199,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,199,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,205,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,205,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,210,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,211,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,216,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,216,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,221,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,221,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,226,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,226,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,232,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,232,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,238,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,238,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,244,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,244,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,250,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,250,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,255,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,255,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,260,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,260,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,265,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,265,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,271,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,271,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,276,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,277,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,283,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,283,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,289,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,290,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,295,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,295,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,301,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,302,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,307,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,308,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,313,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,314,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,319,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,319,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,325,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,325,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,331,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,331,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,337,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,337,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,343,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,343,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,349,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,349,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,354,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,354,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,360,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,360,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,366,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,367,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,372,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,372,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,377,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,378,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,383,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,383,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,388,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,389,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,395,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,395,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,401,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,401,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,407,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,407,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,412,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,412,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,418,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,418,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,423,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,423,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,429,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,429,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,434,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,434,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,439,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,439,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,444,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,444,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,450,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,450,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,456,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,456,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,463,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,463,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,468,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,468,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,474,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,474,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,479,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,479,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,484,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,485,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,490,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,491,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,496,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,497,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,502,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,502,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,508,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,508,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,513,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,514,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,521,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,521,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,527,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,527,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,533,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,533,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,538,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,538,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,544,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,544,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,550,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,550,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,555,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,555,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,561,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,561,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,566,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,567,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,572,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,572,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,578,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,578,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,583,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,583,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,588,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,589,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,594,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,594,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,601,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,601,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,607,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,608,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,613,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,614,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,619,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,619,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,624,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,625,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,630,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,630,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,636,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,636,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,642,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,643,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,648,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,648,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,654,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,654,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,659,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,660,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,665,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,665,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,671,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,672,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,677,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,677,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,682,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,683,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,688,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,688,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,694,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,694,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,700,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,701,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,707,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,707,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,712,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,712,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,718,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,718,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,724,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,724,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,730,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,730,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,736,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,736,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,742,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,742,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,747,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,748,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,753,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,753,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,758,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,758,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,764,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,764,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,769,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,769,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,775,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,775,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,781,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,781,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,787,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,787,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,793,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,794,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,800,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,800,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,805,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,805,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,811,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,811,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,817,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,818,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,823,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,824,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,830,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,830,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,834,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,834,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,841,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,841,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,846,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,846,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,852,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,852,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,858,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,858,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,863,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,863,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,869,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,869,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:38,876,PCDisarmConnect,WARNING,Command 'iwlist wlan1 scan | grep -e ESSID -e Quality' returned non-zero exit status 1
+2016-10-21 14:38:38,876,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -70, 'dlink': -81, 'LEDE': -53, 'MANET': -74, 'SD-TD': -80}
+2016-10-21 14:38:43,975,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -83, 'DCA': -75, 'dlink': -81, 'LEDE': -62, 'MANET': -74, 'SD-TD': -77}
+2016-10-21 14:40:14,410,PCDisarmConnect,INFO,Searching DisarmDevice
+2016-10-21 14:40:15,907,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -88, 'ResearchLab(DIR-605L)': -85, '1stFloorLinksys': -78, 'DCA': -75, 'dlink': -91, 'LEDE': -51, 'MANET': -75, 'SD-TD': -77, 'DH-9635547701': -53}
+2016-10-21 14:40:50,512,PCDisarmConnect,INFO,Searching DisarmDevice
+2016-10-21 14:40:50,516,PCDisarmConnect,INFO,Searching DisarmDevice
+2016-10-21 14:40:50,519,PCDisarmConnect,INFO,Searching DisarmDevice
+2016-10-21 14:40:50,522,PCDisarmConnect,INFO,Searching DisarmDevice
+2016-10-21 14:40:50,524,PCDisarmConnect,INFO,Searching DisarmDevice

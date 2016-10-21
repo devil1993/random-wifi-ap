@@ -1,0 +1,7 @@
+2016-10-21 14:36:23,657,PCDisarmConnect,INFO,Searching DisarmDB
+2016-10-21 14:36:25,152,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -89, '1stFloorLinksys': -78, 'DCA': -81, 'dlink': -90, 'LEDE': -54, 'MANET': -66, 'SD-TD': -70}
+2016-10-21 14:36:26,732,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -86, '1stFloorLinksys': -77, 'DCA': -80, 'dlink': -90, 'LEDE': -54, 'MANET': -75, 'SD-TD': -80}
+2016-10-21 14:36:28,311,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -86, '1stFloorLinksys': -78, 'DCA': -82, 'dlink': -90, 'LEDE': -54, 'MANET': -75, 'SD-TD': -73}
+2016-10-21 14:36:29,895,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -79, 'DCA': -80, 'dlink': -91, 'LEDE': -54, 'MANET': -75, 'SD-TD': -79}
+2016-10-21 14:36:29,895,PCDisarmConnect,INFO,Searching DisarmDevice
+2016-10-21 14:36:31,472,PCDisarmConnect,INFO,Wifi Scan List Result:,{'disarmNet': -87, '1stFloorLinksys': -68, 'DCA': -80, 'dlink': -91, 'LEDE': -54, 'MANET': -75, 'SD-TD': -70}

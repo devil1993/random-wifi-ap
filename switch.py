@@ -33,7 +33,7 @@ lgr.addHandler(fh)
 
 
 # Create AP constants and commands
-time_to_wait = 15
+time_to_wait = 30
 sudo_password = "roguenation"
 binary_location = "create_ap/create_ap"
 create_ap_option = "-g"
@@ -44,11 +44,13 @@ activeWifis = []
 wifiDict = {}
 
 # Time to search for available wifi connections in miliseconds.
-time_to_search = 5
+time_to_search = 20
 
 # App Constants
 disarm_DB_name = "DisarmHotspotDB"
 disarm_DB_password = "DisarmDB"
+disarm_device_suffix = "DH-"
+disarm_device_password = "password123"
 
 #print 'wifi:' + str(wifi_device_name) + 'eth:' + str(eth_device_name)
 
@@ -67,7 +69,7 @@ disconnect_command = "nmcli d disconnect "
 connect_pwd = " password "
 
 # Get the number of connected clients
-client_count_script = binary_location + " --list-clients wlan0 | grep -e 192.168.43 | wc -l"
+client_count_script = binary_location + " --list-clients "+ wifi_device_name +" | grep -e 192.168.43 | wc -l"
 
 # AP kill command
 kill_ap = "pkill -f create_ap"
@@ -93,10 +95,11 @@ def parseWifiList(activeWifiList):
 				activeWifis[i+1] = activeWifis[i+1].replace(ch,"")
 
 		#print str(activeWifis[i]) + " " + str(activeWifis[i+1])
-		wifiDict[activeWifis[i+1]] = activeWifis[i]
+		wifiDict[activeWifis[i+1]] = int(activeWifis[i])
 		 
 	lgr.info("Wifi Scan List Result:," + str(wifiDict))
-	print wifiDict
+	#print wifiDict
+	return wifiDict
 
 def checkIfDBExists(filename):
 	file = open(filename,"r")
@@ -115,29 +118,45 @@ def checkIfDBExists(filename):
 			#print connection_name
 	return 0
 
-def connectToDB():
-	print "Connecting to " + disarm_DB_name	
-	final_command = connect_to + disarm_DB_name + connect_pwd + disarm_DB_password
+def connectTo(connection, password):
+	print "Connecting to " + connection
+	final_command = connect_to + connection + connect_pwd + password
 	os.system(final_command)
 	#Popen(final_command, shell=True)
 
-def searchAndConnect():
-	lgr.info("Searching DisarmDB")
+def searchAndConnectToDH():
+	lgr.info("Searching DisarmDevice")
 	#datetime.datetime.now().time()
 	time_remaining = time_to_search
 	current_time = time.time()
 	time_taken = 0
-	while ((time_remaining - time_taken) > 0 and (not isConnected(disarm_DB_name))):
+	while ((time_remaining - time_taken) > 0 and (not isConnected(disarm_device_suffix))):
+		'''
 		try:
 			os.system('rm ' + filename)
 		except Exception, e:
 			print e
-		activeWifiList = str(check_output("iwlist wlan0 scan | grep -e ESSID -e Quality", shell=True))
-		parseWifiList(activeWifiList)
+		'''
+		active_wifi_list = ""
+		try:
+			active_wifi_list = str(check_output(command + " "	 + wifi_device_name + " " + operation + " " + filters, shell=True))
+		except Exception as e:
+			lgr.warning(e)
+		
+		available_connections = parseWifiList(active_wifi_list)
+		#print available_connections
+		#os.system(command + " "	 + wifi_device_name + " " + operation + " " + filters + " " + to_file)
+		best_connection = ''
+		best_connection_strength = 0
+		for key in available_connections:
+			if available_connections[key]<best_connection_strength and key.startswith(disarm_device_suffix):
+				best_connection = key
+				best_connection_strength = available_connections[key]
+		print "Best connection is", best_connection, "with strength = ", best_connection_strength
 
-		os.system(command + " "	 + wifi_device_name + " " + operation + " " + filters + " " + to_file)
-		if(checkIfDBExists(filename) == 1) :
-			connectToDB();
+		if best_connection.startswith(disarm_device_suffix):
+			connectTo(best_connection,disarm_device_password);
+
 		now = time.time()
 		#datetime.datetime.now().time()
 		time_taken = now - current_time
@@ -147,8 +166,45 @@ def searchAndConnect():
 		if(time_remaining <= time_taken):
 			print "Need to enter randomize switching"
 			break;
+
+def searchAndConnectToDB():
+	lgr.info("Searching DisarmDB")
+	#datetime.datetime.now().time()
+	time_remaining = time_to_search
+	current_time = time.time()
+	time_taken = 0
+	while ((time_remaining - time_taken) > 0 and (not isConnected(disarm_DB_name))):
+		'''
+		try:
+			os.system('rm ' + filename)
+		except Exception, e:
+			print e
+		'''
+		active_wifi_list = ""
+		try:
+			active_wifi_list = str(check_output(command + " "	 + wifi_device_name + " " + operation + " " + filters, shell=True))
+		except Exception as e:
+			lgr.warning(e)
+		
+		available_connections = parseWifiList(active_wifi_list)
+		#print available_connections
+		#os.system(command + " "	 + wifi_device_name + " " + operation + " " + filters + " " + to_file)
+		if available_connections.has_key(disarm_DB_name) :
+			connectTo(disarm_DB_name,disarm_DB_password);
+		now = time.time()
+		#datetime.datetime.now().time()
+		time_taken = now - current_time
+
+		#time_remaining = time_remaining - time_taken
+		#rint str(time_taken) + " " + str(time_remaining)
+		if(time_remaining <= time_taken):
+			print "Need to enter randomize switching"
+			break;
+
+
 def randomSwiching():
 	frac = random.random()
+	print "Random generated number: ", frac
 	if frac > switching_probability:
 		return True
 	return False
@@ -182,17 +238,25 @@ def apCreaterThreadFunction(command, thread_id):
 
 # Initially in WiFi mode
 
-searchAndConnect()
+searchAndConnectToDB()
 #createAp()
 
 # Now loop and randomize switch
 while(True):
-	break
+	print "Sleeping for 5 secs"
+	time.sleep(5)
+	print "Good morning, again!!"
+	# Check if connected to any device or DB
+	while(isConnected(disarm_device_suffix) or isConnected(disarm_DB_name)):
+		print "Waiting for connections to get terminated.."
+		time.sleep(time_to_wait)
 	# Generate a random fraction
 	# Check if its more than switching probability
 	if(randomSwiching()):
+		print "Creating AP......"		
 		createAp()
 	else:
-		searchAndConnect()
+		print "Searching for devices........"
+		searchAndConnectToDH()
 
 print "Exiting..."

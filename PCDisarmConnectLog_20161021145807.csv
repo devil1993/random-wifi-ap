@@ -1,0 +1,51 @@
+2016-10-21 14:58:07,602,PCDisarmConnect,INFO,Searching DisarmDB
+2016-10-21 14:58:09,097,PCDisarmConnect,INFO,Wifi Scan List Result:,{'dlink': -88, '1stFloorLinksys': -75, 'LEDE': -50, 'hotspot': -70}
+2016-10-21 14:58:12,367,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -85, 'disarmNet': -91, 'hotspot': -77, 'DCA': -81, 'dlink': -84, 'LEDE': -52, 'SD-TD': -86}
+2016-10-21 14:58:13,941,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -80, 'disarmNet': -91, 'hotspot': -77, 'DCA': -82, 'dlink': -84, 'LEDE': -53, 'SD-TD': -82}
+2016-10-21 14:58:15,529,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -68, 'disarmNet': -91, 'hotspot': -78, 'DCA': -81, 'dlink': -84, 'LEDE': -53, 'SD-TD': -87}
+2016-10-21 14:58:17,112,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -79, 'disarmNet': -91, 'hotspot': -74, 'DCA': -81, 'dlink': -84, 'LEDE': -55, 'SD-TD': -82}
+2016-10-21 14:58:18,692,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -83, 'disarmNet': -91, 'hotspot': -75, 'DCA': -81, 'dlink': -84, 'LEDE': -52, 'SD-TD': -81}
+2016-10-21 14:58:20,279,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -81, 'disarmNet': -91, 'hotspot': -77, 'DCA': -81, 'dlink': -84, 'LEDE': -55, 'SD-TD': -81}
+2016-10-21 14:58:21,864,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -81, 'disarmNet': -92, 'hotspot': -77, 'DCA': -81, 'dlink': -84, 'LEDE': -60, 'SD-TD': -81}
+2016-10-21 14:58:23,443,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -79, 'disarmNet': -92, 'hotspot': -77, 'DCA': -83, 'dlink': -84, 'LEDE': -58, 'SD-TD': -80}
+2016-10-21 14:58:25,025,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -81, 'disarmNet': -89, 'hotspot': -76, 'DCA': -73, 'dlink': -86, 'LEDE': -49, 'SD-TD': -80}
+2016-10-21 14:58:26,605,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -81, 'disarmNet': -89, 'hotspot': -75, 'DCA': -73, 'dlink': -86, 'LEDE': -54, 'SD-TD': -73}
+2016-10-21 14:58:28,183,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -80, 'disarmNet': -89, 'hotspot': -76, 'DCA': -71, 'dlink': -86, 'LEDE': -57, 'SD-TD': -81}
+2016-10-21 14:59:08,295,PCDisarmConnect,INFO,Searching DisarmDevice
+2016-10-21 14:59:14,503,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -77, 'disarmNet': -88, 'hotspot': -66, 'DCA': -79, 'dlink': -90, 'LEDE': -62, 'SD-TD': -79}
+2016-10-21 14:59:16,132,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -80, 'disarmNet': -88, 'hotspot': -78, 'DCA': -81, 'dlink': -90, 'LEDE': -52, 'SD-TD': -82}
+2016-10-21 14:59:17,708,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -77, 'disarmNet': -89, 'hotspot': -80, 'DCA': -81, 'dlink': -90, 'LEDE': -75, 'SD-TD': -80}
+2016-10-21 14:59:19,288,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -77, 'disarmNet': -89, 'hotspot': -75, 'DCA': -79, 'dlink': -90, 'LEDE': -65, 'SD-TD': -82}
+2016-10-21 14:59:20,868,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -88, 'disarmNet': -89, 'hotspot': -66, 'DCA': -79, 'dlink': -90, 'LEDE': -69, 'SD-TD': -68}
+2016-10-21 14:59:22,445,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -86, 'disarmNet': -89, 'hotspot': -66, 'DCA': -79, 'dlink': -91, 'LEDE': -68, 'SD-TD': -68}
+2016-10-21 14:59:24,027,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -83, 'disarmNet': -89, 'hotspot': -76, 'DCA': -79, 'dlink': -91, 'LEDE': -73, 'SD-TD': -84}
+2016-10-21 14:59:25,617,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -81, 'disarmNet': -89, 'hotspot': -76, 'DCA': -84, 'dlink': -91, 'LEDE': -67, 'SD-TD': -84}
+2016-10-21 14:59:27,213,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -87, 'disarmNet': -89, 'hotspot': -76, 'DCA': -79, 'dlink': -91, 'LEDE': -68, 'SD-TD': -69}
+2016-10-21 14:59:28,818,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -83, 'disarmNet': -89, 'hotspot': -76, 'DCA': -81, 'dlink': -91, 'LEDE': -59, 'SD-TD': -82}
+2016-10-21 14:59:33,833,PCDisarmConnect,INFO,Searching DisarmDevice
+2016-10-21 14:59:35,332,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -81, 'disarmNet': -89, 'hotspot': -78, 'DCA': -81, 'dlink': -93, 'LEDE': -66, 'SD-TD': -69}
+2016-10-21 14:59:38,563,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -87, 'disarmNet': -98, 'hotspot': -78, 'DCA': -81, 'dlink': -93, 'LEDE': -64, 'SD-TD': -78}
+2016-10-21 14:59:40,100,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -82, 'disarmNet': -98, 'hotspot': -78, 'DCA': -81, 'dlink': -93, 'LEDE': -54, 'SD-TD': -87}
+2016-10-21 14:59:41,680,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -81, 'disarmNet': -98, 'hotspot': -62, 'DCA': -81, 'dlink': -93, 'LEDE': -54, 'SD-TD': -82}
+2016-10-21 14:59:43,265,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -76, 'disarmNet': -98, 'hotspot': -74, 'DCA': -73, 'dlink': -94, 'LEDE': -63, 'SD-TD': -84}
+2016-10-21 14:59:44,840,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -75, 'disarmNet': -98, 'hotspot': -74, 'DCA': -73, 'dlink': -94, 'LEDE': -54, 'SD-TD': -78}
+2016-10-21 14:59:46,421,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -77, 'disarmNet': -98, 'hotspot': -75, 'DCA': -82, 'dlink': -91, 'LEDE': -53, 'SD-TD': -81}
+2016-10-21 14:59:47,996,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -67, 'disarmNet': -98, 'hotspot': -73, 'DCA': -82, 'dlink': -91, 'LEDE': -55, 'SD-TD': -82}
+2016-10-21 14:59:49,575,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -80, 'disarmNet': -98, 'hotspot': -74, 'DCA': -82, 'dlink': -91, 'LEDE': -55, 'SD-TD': -83}
+2016-10-21 14:59:51,152,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -81, 'disarmNet': -98, 'hotspot': -73, 'DCA': -82, 'dlink': -91, 'LEDE': -55, 'SD-TD': -77}
+2016-10-21 14:59:52,731,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -80, 'disarmNet': -98, 'hotspot': -75, 'DCA': -82, 'dlink': -91, 'LEDE': -55, 'SD-TD': -81}
+2016-10-21 14:59:54,320,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -75, 'disarmNet': -98, 'hotspot': -73, 'DCA': -72, 'dlink': -91, 'LEDE': -83, 'SD-TD': -81}
+2016-10-21 15:01:09,541,PCDisarmConnect,INFO,Searching DisarmDevice
+2016-10-21 15:01:11,037,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -86, 'disarmNet': -98, 'hotspot': -80, 'DCA': -87, 'dlink': -91, 'LEDE': -57, 'SD-TD': -81}
+2016-10-21 15:01:12,628,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -80, 'disarmNet': -98, 'hotspot': -80, 'DCA': -78, 'dlink': -89, 'LEDE': -64, 'SD-TD': -80}
+2016-10-21 15:01:14,239,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -77, 'disarmNet': -98, 'hotspot': -79, 'DCA': -89, 'dlink': -89, 'LEDE': -71, 'SD-TD': -82}
+2016-10-21 15:01:15,833,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -85, 'disarmNet': -98, 'hotspot': -78, 'DCA': -89, 'dlink': -89, 'LEDE': -64, 'SD-TD': -82}
+2016-10-21 15:01:17,433,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -82, 'disarmNet': -98, 'hotspot': -77, 'DCA': -76, 'dlink': -88, 'LEDE': -64, 'SD-TD': -81}
+2016-10-21 15:01:19,048,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -87, 'disarmNet': -98, 'hotspot': -77, 'DCA': -83, 'dlink': -91, 'LEDE': -79, 'SD-TD': -80}
+2016-10-21 15:01:20,669,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -77, 'disarmNet': -98, 'hotspot': -73, 'DCA': -83, 'dlink': -87, 'LEDE': -74, 'SD-TD': -80}
+2016-10-21 15:01:22,276,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -78, 'disarmNet': -98, 'hotspot': -73, 'DCA': -83, 'dlink': -87, 'LEDE': -65, 'SD-TD': -85}
+2016-10-21 15:01:23,880,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -79, 'disarmNet': -98, 'hotspot': -73, 'DCA': -78, 'dlink': -91, 'LEDE': -55, 'SD-TD': -86}
+2016-10-21 15:01:25,505,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -79, 'disarmNet': -98, 'hotspot': -74, 'DCA': -83, 'dlink': -91, 'LEDE': -57, 'SD-TD': -86}
+2016-10-21 15:01:27,120,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -79, 'disarmNet': -98, 'hotspot': -64, 'DCA': -81, 'dlink': -91, 'LEDE': -61, 'SD-TD': -79}
+2016-10-21 15:01:28,737,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -87, 'disarmNet': -98, 'hotspot': -73, 'DCA': -82, 'dlink': -91, 'LEDE': -55, 'SD-TD': -69}
+2016-10-21 15:01:32,019,PCDisarmConnect,INFO,Wifi Scan List Result:,{'1stFloorLinksys': -84, 'disarmNet': -98, 'hotspot': -76, 'DCA': -82, 'dlink': -93, 'LEDE': -58, 'SD-TD': -69}
