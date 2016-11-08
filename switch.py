@@ -9,7 +9,7 @@ import logging
 
 # Wifi Scanning command section
 # Find wlan0 and eth0 Interface
-wifiInterfaceName = "ls /sys/class/net | grep '^w'"
+wifiInterfaceName = "ls /sys/class/net | grep '^wlx'"
 ethInterfaceName = "ls /sys/class/net | grep '^e'"
 
 wifi_device_name = check_output(wifiInterfaceName, shell=True)[0:-1]
@@ -61,6 +61,7 @@ filename = "tempFile1"
 to_file = "> " + filename
 check_command = "iwconfig"
 check_filter = " | grep ESSID"
+frequencyFilter = " | grep -e Frequency"
 #to_file = ""
 
 # Wifi Connect Command
@@ -75,6 +76,34 @@ client_count_script = binary_location + " --list-clients "+ wifi_device_name +" 
 kill_ap = "pkill -f create_ap"
 
 # Functions
+def getFreeChannel():	
+	factor = 0.16
+	load = [0,0,0,0,0,0,0,0,0,0,0,0,0]
+
+	frequency_command = command + " " + wifi_device_name + " " + operation + frequencyFilter 
+
+	data = check_output(frequency_command, shell=True)[0:-1]
+
+	list_freq = data.split('\n')
+
+	for freq in list_freq:
+	    band = int(freq[-3:-1])
+	    print band
+	    for i in range(band-5 , band+6):
+	        if i<1 or i>13:
+	            continue
+	        load[i-1] = load[i-1] + (6-abs(i-band))*factor    
+	        #print i
+	    #print 'band: ', band
+
+	print load
+	min_load = 0
+	for i in range(1,14):
+	    if load[i-1]<load[min_load]:
+	    	min_load = i-1
+
+	print "Please use Channel",min_load+1
+	return min_load
 
 def isConnected(connection_name_to_check):
 	final_check_command = check_command + " " + wifi_device_name + check_filter
@@ -210,6 +239,8 @@ def randomSwiching():
 	return False
 
 def createAp():
+	free_frequency = 2.412 + getFreeChannel()*0.005
+	print "Frequency to create AP is:", free_frequency
 	os.system(disconnect_command+wifi_device_name)
 	create_ap_command = binary_location + " " + create_ap_option+ " " + ip_range_selector + " " + wifi_device_name + " " + source_device_name + " " + disarm_DB_name + " " + disarm_DB_password
 	print create_ap_command
